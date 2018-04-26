@@ -1,0 +1,9 @@
+tensorflow
+tensorflow-gpu
+matplotlib
+pycrayon
+numpy
+scipy
+pandas
+ipython
+jupyter
